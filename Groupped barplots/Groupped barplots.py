@@ -44,8 +44,12 @@ sns.barplot(
 ax.set_ylabel('Value (a.u)', fontsize=16, fontweight='bold')
 ax.tick_params(axis='x', labelsize=16)
 ax.tick_params(axis='y', labelsize=14)
+for label in ax.get_xticklabels():
+    label.set_fontweight('bold')
 ax.legend(prop={'size': 14})
 ax.grid(axis='y')
 ax.set(axisbelow=True)
+
+plt.savefig("....\Data.png",dpi=250)
 
 plt.show()
