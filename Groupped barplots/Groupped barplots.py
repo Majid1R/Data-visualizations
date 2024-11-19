@@ -37,7 +37,7 @@ palette = {group: color_codes[i % len(color_codes)] for i, group in enumerate(un
 fig, ax = plt.subplots(figsize=[8, 8])
 sns.barplot(
     x=group1_labels, y=value_data, hue=group2_labels, ax=ax,
-    capsize=0.1, errorbar=('ci', 68), lw=1, edgecolor=".2", palette=palette, errcolor='black'
+    capsize=0.1, ci=68, lw=1, edgecolor=".2", palette=palette, errcolor='black'
 )
 
 # Plot
