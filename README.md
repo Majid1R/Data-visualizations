@@ -11,7 +11,7 @@ A bar plot is a graphical method for presenting and comparing categorical data v
 
 ![Volume](https://github.com/user-attachments/assets/34f36814-93ba-48a0-860f-f2d0bdbd3d46)
 
-## violin-scatter plot
+## Violin-scatter plot
 A violin scatter plot combines a violin plot and a scatter plot to visualize the distribution of a dataset while displaying individual data points. The violin plot shows the density distribution, with wider areas indicating higher data concentration, while the scatter plot overlays individual data points. Here, we have a violin scatter plot comparing three different time points or datasets across two different methods or groups. You can adjust the number of data points as needed.
 
 ![value](https://github.com/user-attachments/assets/25df1135-d282-4736-aa46-fbe12f2109b9)
