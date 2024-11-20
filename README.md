@@ -1,9 +1,13 @@
 # Data-visualizations
 Several visualization scripts are available to assist you in accomplishing various data analysis objectives.
 
-## Scatter-Correlation Plot
+## Scatterplots
 A scatterplot is an essential tool for exploring the relationship between two methods. When your data involves some distinct methods that you want to visualize and compare, a scatterplot can effectively illustrate their similarities or differences. This code allows you to compare three different methods for illustration. The first element on the legend represents the x-axis, while the second element always represents the value on the y-axis.
 
+### 1-Grouped Scatter-Plot
+![scatter](https://github.com/user-attachments/assets/c52a590b-cdeb-41b7-ad48-06e6f4a93095)
+
+### 2-Scatter-Correlation Plot
 ![Data](https://github.com/user-attachments/assets/7243e195-e2de-4312-aee0-d61a7ac9e3f0)
 
 ## Barplots
@@ -29,7 +33,3 @@ A Box-Plot, also known as a whisker plot, is a statistical visualization used to
 ### 2-Boxplots
 ![x](https://github.com/user-attachments/assets/da0f2388-689f-411e-a0fe-6473025ed9d8)
 
-## Grouped Scatter-Plot
-A Grouped Scatter-Plot is a visualization that displays multiple scatter plots within a single figure, allowing comparisons across different groups or categories. Each plot represents a specific dataset or subset, with data points typically differentiated by color. By grouping these plots together in one figure, it becomes easier to compare patterns
-
-![scatter](https://github.com/user-attachments/assets/c52a590b-cdeb-41b7-ad48-06e6f4a93095)
