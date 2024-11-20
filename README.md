@@ -16,10 +16,14 @@ A violin scatter plot combines a violin plot and a scatter plot to visualize the
 
 ![value](https://github.com/user-attachments/assets/25df1135-d282-4736-aa46-fbe12f2109b9)
 
-## Grouped Box-Plot
+## Boxplots
 A Box-Plot, also known as a whisker plot, is a statistical visualization used to summarize the distribution of a dataset. It displays the median, quartiles, and potential outliers in the data. The box represents the interquartile range (IQR), which contains the middle 50% of the data, while the line inside the box marks the median. Box-plots are useful for comparing distributions, identifying variability, and spotting outliers. Here, we presented multiple groups, allowing for the comparison of two different methods or parameters within each group.
 
+1-Grouped Boxplot
 ![Box](https://github.com/user-attachments/assets/305b473b-2b63-47d0-8dee-8bf3fe231611)
+
+2-Boxplots
+![x](https://github.com/user-attachments/assets/da0f2388-689f-411e-a0fe-6473025ed9d8)
 
 ## Grouped Scatter-Plot
 A Grouped Scatter-Plot is a visualization that displays multiple scatter plots within a single figure, allowing comparisons across different groups or categories. Each plot represents a specific dataset or subset, with data points typically differentiated by color. By grouping these plots together in one figure, it becomes easier to compare patterns
