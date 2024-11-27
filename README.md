@@ -36,7 +36,6 @@ A Box-Plot, also known as a whisker plot, is a statistical visualization used to
 ## Bland–Altman plot
 A Bland-Altman plot is a statistical tool used to assess the agreement between two measurement methods or observers. Instead of comparing raw values, it focuses on the differences between the two methods to highlight biases or discrepancies.
 
-![BA](https://github.com/user-attachments/assets/b08e98c8-e891-4fc6-8f10-690d76acc081)
-
+![BA](https://github.com/user-attachments/assets/4305503e-22e3-4e06-916d-65c60cd9d8df)
 
 
